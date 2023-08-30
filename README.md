@@ -1,4 +1,4 @@
-# ElemetsOfFormDP
+# ElemetsOfFormDynamicP
 1С Elemets of Form with dynamic properties / Динамическая установка свойств элементам формы
 
 Код для получения внешней обработки и вызова экспортного метода этой внешней обработки:
